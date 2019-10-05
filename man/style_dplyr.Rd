@@ -3,13 +3,13 @@
 \docType{data}
 \name{style_dplyr}
 \alias{style_dplyr}
-\title{A pre-extracted style, included for convenience}
+\title{A style extracted from a popular package, included for convenience}
 \format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 14 rows and 4 columns.}
 \usage{
 style_dplyr
 }
 \description{
-A pre-extracted style, included for convenience
+A style extracted from a popular package, included for convenience
 }
 \seealso{
 Other bundled_styles: \code{\link{style_adaptalint}},
@@ -17,4 +17,5 @@ Other bundled_styles: \code{\link{style_adaptalint}},
   \code{\link{style_plyr}}, \code{\link{style_purrr}},
   \code{\link{style_tidyr}}
 }
+\concept{bundled_styles}
 \keyword{datasets}
